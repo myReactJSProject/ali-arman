@@ -1,0 +1,117 @@
+[
+    {
+        "node_id":"R_kgDOIkLARg",
+        "name":"Laptop-Bazzar",
+        "live": "https://laptop-bazzar.web.app/",
+        "github": "https://github.com/arman-ali-khan/Laptop-Bazzar",
+        "description": "Resell Used Laptop",
+        "images":["https://i.ibb.co/D7FXX33/Laptop-Bazzar-Used-Laptop-Buy-Sell-Zone.png ","https://i.ibb.co/P4MKnx4/Laptop-Bazzar-Used-Laptop-Buy-Sell-Zone-1.png","https://i.ibb.co/5kPZ7d5/Laptop-Bazzar-Used-Laptop-Buy-Sell-Zone-2.png"],
+        "bullet":[
+           "Build with ReactJS",
+"Design with TailwindCSS and DaisyUI",
+"Some libraries: React Icon, React Hot Toast, Swiper Slider, Lottie React",
+"Imgbb API Image Upload",
+"Stripe Payment System",
+"Desktop, Tablet, and Mobile fully Responsive",
+"Only the Seller Can Order Products",
+"Sellers can add and remove their products in the advertising section",
+"The seller can delete their own products"
+
+        ]
+    },
+
+    {
+        "node_id":"R_kgDOIc6-oA",
+        "name":"CodeLab",
+        "live": "https://programming-language-courses.web.app/",
+        "github": "https://github.com/arman-ali-khan/CodeLab",
+        "description": "Online training platforms",
+        "images":["https://i.ibb.co/dtB36KV/Code-Lab.png","https://i.ibb.co/V9NVZW2/Code-Lab-1.png","https://i.ibb.co/F34s2wH/Code-Lab-2.png"],
+        "bullet":[
+           "This site is built with React JS",
+"Tailwindcss and Daisyui",
+"Firebase authentication",
+"Single Page Application (SPA)",
+"Fully Responsive",
+"Google, Facebook, Github and email login authentication",
+"Only user can see checkout page",
+"Using icons from react-icons library",
+"Download PDF with React-to-PDF library",
+"Using animated images from lottiefiles.com",
+"Use some code from Mambaui.com"
+
+        ]
+},
+    {"node_id":"R_kgDOIc7f-g",
+    "name":"wild-photographer",
+        "live": "https://photographer-wild.web.app/",
+        "github": "https://github.com/arman-ali-khan/wild-photographer",
+        "description": "Wild photographer project client project",
+        "images":["https://i.ibb.co/FH5GxY5/Home-Wild-Photography.png",
+        "https://i.ibb.co/j5SjGgs/Services-Wild-Photography.png",
+        "https://i.ibb.co/B6DzRzt/Wildlife-Photography-Wild-Photography.png"],
+        "bullet":[
+           "Website build with ReactJS",
+"User Authentication implement with firebase",
+"UI Designed with TailwindCSS and DaisyUI and some components use from random tailwind component library",
+"react-helmet is used to view different titles",
+"Clicking on the image uses react-photo View to enlarge the image"
+
+        ]
+},
+    {"node_id":"R_kgDOIMQNKw",
+    "name":"school-website",
+        "live": "https://laptop-bazzar.web.app/",
+        "github": "https://github.com/arman-ali-khan/Laptop-Bazzar",
+        "description": "Simple school Website ",
+        "images":["https://i.ibb.co/XZ15rHn/React-App.png",
+        "https://i.ibb.co/c1Lqvr2/React-App-1.png",
+        "https://i.ibb.co/JztjR2y/React-App-2.png"],
+        "bullet":[
+           "Build with ReactJS",
+"Build with SPA(Single Page Application)",
+"React router dom",
+"Full page responsive",
+"Stripe Payment System",
+"Lottiefiles use for animated image"
+
+        ]
+
+},
+    {"node_id":"R_kgDOIRmAaQ",
+    "name":"dragon-news",
+        "live": "https://bespoke-marzipan-fd3475.netlify.app/",
+        "github": "https://github.com/arman-ali-khan/dragon-news",
+        "description": "News Portal Website",
+        "images":["https://i.ibb.co/zmWtfL3/Vite-React.png",
+        "https://i.ibb.co/bJpFKsh/Dragon-News.png",
+        "https://i.ibb.co/tpN4kFk/Dragon-News-1.png"],
+        "bullet":[
+           "Build with ReactJS",
+"Design with Bootstrap and react- bootstrap",
+"Firebae authentication",
+"Google and github login ",
+"react-router-dom",
+"Desktop, Tablet, and Mobile fully Responsive"
+
+        ]
+},
+    {"node_id":"R_kgDOIc7skg",
+    "name":"pro-quizzer",
+        "live": "https://shimmering-kringle-b3a787.netlify.app/",
+        "github": "https://github.com/arman-ali-khan/pro-quizzer",
+        "description": "Resell Used Laptop",
+        "images":["https://i.ibb.co/jghW4dZ/Pro-Quizzer.png",
+        "https://i.ibb.co/RpFR49Z/Pro-Quizzer-1.png",
+        "https://i.ibb.co/qm1vsjg/Pro-Quizzer-2.png"],
+        "bullet":[
+           "Build with SPA(Single Page Application)",
+"Category with beautiful image ",
+"Full page responsive",
+"If you click on the option, it will show whether the answer is correct or not.",
+"Clicking on the eye icon will show the correct answer.",
+"The charts on the Statistics page are created with the Rechart library."
+
+        ]
+}
+]
